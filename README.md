@@ -1,5 +1,5 @@
 Welcome!<br/>
-This is a virtual piano developed for Oculus Quest to play with your hands!
+This is a virtual piano developed in Unity 2019.4.10 for Oculus Quest to play with your hands!
 
 <img src="Images/pq1.PNG" height="300">
 
