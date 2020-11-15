@@ -1,6 +1,6 @@
 This is a virtual piano developed for Oculus Quest to play with your hands!
 
-<img src="Images/pq1.png" height="300">
+<img src="Images/pq1.PNG" height="300">
 
 Use each of your fingers to play different notes.
 
