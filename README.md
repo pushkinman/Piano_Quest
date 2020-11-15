@@ -1,4 +1,4 @@
-Welcome!
+Welcome! \n
 This is a virtual piano developed for Oculus Quest to play with your hands!
 
 <img src="Images/pq1.PNG" height="300">
