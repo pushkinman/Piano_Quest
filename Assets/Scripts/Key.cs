@@ -1,4 +1,5 @@
-﻿using System.Collections;
+﻿using System;
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -8,12 +9,21 @@ public class Key : MonoBehaviour
     public AudioClip sound;
     public Animator animator;
     public AudioSource audioSource;
+    public string keyName;
+    public GameObject child1;
+    
+    public static string LastPressedKey;
 
     private void Start()
     {
         audioSource = GetComponent<AudioSource>();
         animator = transform.GetChild(0).GetComponent<Animator>();
         audioSource.clip = sound;
+        try
+        {
+            child1 = transform.GetChild(1).gameObject;
+        } catch (Exception e){}
+            
     }
     public void PlaySound()
     {
@@ -22,6 +32,7 @@ public class Key : MonoBehaviour
 
         animator.SetBool("Pressed", true);
         StopAllCoroutines();
+        SetLastPressedKey();
     }
 
     public void StopSound()
@@ -38,5 +49,11 @@ public class Key : MonoBehaviour
             //Debug.Log("true");
             yield return null;
         } 
-    } 
+    }
+
+    private void SetLastPressedKey()
+    {
+        LastPressedKey = keyName;
+        Debug.Log(LastPressedKey);;
+    }
 }

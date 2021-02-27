@@ -1,29 +1,132 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:RTUITLab" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="4d9daa6b-0b44-419b-b915-8a13d12ae434" name="Default Changelist" comment="" />
+    <list default="true" id="4d9daa6b-0b44-419b-b915-8a13d12ae434" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Arrow.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Arrow/Arrow.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Arrow/Arrow.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Arrow/Idle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Arrow/Idle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning/Idle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning/Idle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning/Page1.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning/Page1.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning/PageTurning.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animation/Page_Turning/PageTurning.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Materials/JingleBells1.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Materials/JingleBells1.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Materials/JingleBells2.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Materials/JingleBells2.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Materials/MHALL.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Materials/MHALL.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/Cof.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/Cof.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/JingleBells1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/JingleBells1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/JingleBells2.PNG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/JingleBells2.PNG.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/MHALL.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/MHALL.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/TwinkleTwinkle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Images/Notes/TwinkleTwinkle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/uploads_files_765300_Arrow.fbx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Models/uploads_files_765300_Arrow.fbx.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ColliderDelayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/InputManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Music.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/MusicNotes.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/NoteHighlighterManager.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/Pulse.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/TurnPage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Mouse Click - Sound Effect (HD) (mp3cut.net).mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sounds/Mouse Click - Sound Effect (HD) (mp3cut.net).mp3.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Piano_Quest/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Piano_Quest/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Piano_Quest/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Piano_Quest/.idea/indexLayout.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Piano_Quest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Piano_Quest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Cof.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Images/Cof.png.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Key.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Key.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Music.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NoteHighlighterManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2DB13BA0-D523-4322-8AA9-892C408FB49A/ed/88a9c046/Input.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ColliderDelayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/KeyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TurnPage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/InputManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicNotes.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/Assets/Scripts/GestureDetector.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CameraMover.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/KeyInfo.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Key.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/InputManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ColliderDelayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Music.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Pulse.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicNotes.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TurnPage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NoteHighlighterManager.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectId" id="1kGsECDwr27XATaek4CaiT9RkV3" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="Discover.Launch.Via.Unity" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
@@ -56,6 +159,13 @@
       <updated>1605338149923</updated>
       <workItem from="1605338152705" duration="4049000" />
       <workItem from="1605415133184" duration="3028000" />
+      <workItem from="1612952477280" duration="8987000" />
+      <workItem from="1613464724248" duration="8798000" />
+      <workItem from="1613555703937" duration="4141000" />
+      <workItem from="1613805857685" duration="2693000" />
+      <workItem from="1614163026584" duration="4693000" />
+      <workItem from="1614249640829" duration="20718000" />
+      <workItem from="1614317904731" duration="2262000" />
     </task>
     <servers />
   </component>
@@ -64,7 +174,35 @@
   </component>
   <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2307" y="-886" key="RiderGenerateDialog" timestamp="1612958759931">
+      <screen x="1543" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2307" y="-886" key="RiderGenerateDialog/0.0.1536.920/-377.-1080.1920.1040/1543.-1080.1920.1040@1543.-1080.1920.1040" timestamp="1612958759931" />
+    <state x="2293" y="-938" key="SettingsEditor" timestamp="1614253535922">
+      <screen x="1543" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2004" y="-915" key="SettingsEditor/0.0.1536.920/-377.-1080.1920.1040/1543.-1080.1920.1040@1543.-1080.1920.1040" timestamp="1612956343143" />
+    <state x="2293" y="-938" key="SettingsEditor/0.0.1755.1057/-377.-1080.1920.1040/1543.-1080.1920.1040@1543.-1080.1920.1040" timestamp="1614253535922" />
+    <state x="2166" y="-855" width="672" height="678" key="search.everywhere.popup" timestamp="1612955930617">
+      <screen x="1543" y="-1080" width="1920" height="1040" />
+    </state>
+    <state x="2166" y="-855" width="672" height="678" key="search.everywhere.popup/0.0.1536.920/-377.-1080.1920.1040/1543.-1080.1920.1040@1543.-1080.1920.1040" timestamp="1612955930617" />
   </component>
 </project>

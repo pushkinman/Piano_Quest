@@ -770,9 +770,17 @@
         <e p="Scripts" t="Include">
           <e p="ButtonListener.cs" t="Include" />
           <e p="CameraMover.cs" t="Include" />
+          <e p="ColliderDelayer.cs" t="Include" />
           <e p="GestureDetector.cs" t="Include" />
+          <e p="InputManager.cs" t="Include" />
           <e p="Key.cs" t="Include" />
+          <e p="KeyInfo.cs" t="Include" />
+          <e p="Music.cs" t="Include" />
+          <e p="MusicNotes.cs" t="Include" />
+          <e p="NoteHighlighterManager.cs" t="Include" />
           <e p="NotesController.cs" t="Include" />
+          <e p="Pulse.cs" t="Include" />
+          <e p="TurnPage.cs" t="Include" />
         </e>
         <e p="Sounds" t="Include">
           <e p="Piano" t="Include">
